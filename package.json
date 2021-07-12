@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Roel",
 	"description": "A project that does something awesome",
-	"keys": ["freecodecamp", "education"],
+	"keywords": ["freecodecamp", "education"],
 	"version": "1.2.0",
 	"license": "MIT",
 	"dependencies": {
